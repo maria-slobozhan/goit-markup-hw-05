@@ -647,7 +647,7 @@ img {
   top: 8px;
   right: 8px;
 
-  padding: 6px;
+  padding: 6px 7px 6px 5px;
   width: 30px;
   height: 30px;
   border-radius: 50%;
